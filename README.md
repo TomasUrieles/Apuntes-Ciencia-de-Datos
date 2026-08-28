@@ -14,8 +14,9 @@ tanh redes renouronales intermedias
 Las neuoronas pueden tener varias salidas pero en caso lineales (0,1) se puede utilizar para 1 sola salida o 2 salidas, para utilizar multiples salidas deben casos >3 
 
 Cuando se procesa una instancia se realizan las siguientes cosas:
-feed progation es como se comporta las funciones de la neurona hacia el output
-back progation es como se comporta la funcion a la inversa es decir desde el resultado del output hasta el inicio
+forward propagation
+feed propagation es como se comporta las funciones de la neurona hacia el output
+back propagation es como se comporta la funcion a la inversa es decir desde el resultado del output hasta el inicio
 
 Epoca es cuando termina todas las distancias de las funciones. Es decir cuando todas las instancias completan una iteracion 
 
@@ -31,3 +32,11 @@ Red neuronal densa es que esta conectada con la capa anterior y con la siguiente
 
 
 
+df.edad = df["edad"] 
+df[edad] = cuando esta dentro de los parentesis significa que invoca lo que esta dentro de la variable "edad" es decir años
+
+
+
+MLP = Multilayer perceptron es decir red neuornal
+
+recodemos que los pesos en sigmoid es linear 
