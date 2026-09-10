@@ -40,3 +40,8 @@ df[edad] = cuando esta dentro de los parentesis significa que invoca lo que esta
 MLP = Multilayer perceptron es decir red neuornal
 
 recodemos que los pesos en sigmoid es linear 
+
+TPU Tensor procesador unit
+
+GPU graphical proces unit
+
